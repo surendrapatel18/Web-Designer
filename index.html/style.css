@@ -1,0 +1,32 @@
+*{
+margin:0;
+padding:0;
+box-sizing: border-box;
+}
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color:wheat;
+}
+.container.heading{
+width: 50px;
+}
+.container.heading.h1{
+    font-size: 50%px;
+    font-family:serif;
+    font-weight: 100;
+font-style: italic;
+color: darkred;
+}
+.container.box{
+    display: flex;
+    flex-direction: row;
+justify-content: space-between;
+}
+.container.box.dream{
+    flex-direction: column;
+    width:40% ;
+    height: 100%;
+}
