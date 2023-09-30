@@ -1,0 +1,75 @@
+ 1.  What are the benefits of using CSS?
+ANSWER.  
+        Using CSS, you can control the color of the text, the style of fonts, the spacing between paragraphs, how   columns  are sized and laid out, etc. CSS saves time − You can write CSS once and then reuse the same sheet in multiple  HTML pages.
+
+2. What are the disadvantages of CSS?
+ANSWER. Disadvantages of CSS:
+         • Confusion due to many CSS levels. Beginners are more vulnerable to this issue. ...
+         • Cross-Browser Issues. Different browsers work differently. ...
+         • Security Issues. Security is important in today's world driven by technology and data. ...
+         • Extra Work for Developers.
+
+3.     What is the difference between CSS2 and CSS3?
+ANSWER.   Unlike CSS2, which was comprised of a single document, CSS3 has its specifications divided into          many individual modules, which makes CSS3 a whole lot easier to handle. With CSS3, the designers can now   use special fonts, like those available in Google Fonts and Typecast.
+
+4.   Name a few CSS style components?
+ANSWER. The components of css style are:
+• Selector: class name, id name or element name that is target.
+• Attribute: name of the attribute you want to style for example border, color,background, position etc.
+• Value of Property: value that will be assigned to attribute.
+
+5.  What do you understand by CSS opacity?
+ANSWER. The opacity CSS property sets the opacity of an element. Opacity is the degree to which content behind an element is hidden, and is the opposite of transparency.
+
+6.   How can the background color of an element be changed?  
+ANSWER.  To add background color in HTML, use the CSS background-color property. Set it to the color name or code you want and place it inside a style attribute. Then add this style attribute to an HTML element, like a table, heading, div, or span tag.
+
+7.  How can image repetition of the backup be controlled?  
+ANSWER. This task can be achieved by using the background-repeat property that will help us to control the repetition of the image. The background-repeat property in CSS is used to repeat the background image both horizontally and vertically. It also decides whether the background image will be repeated or not.
+
+8.  What is the use of the background-position property?  
+ANSWER. The background-position property in CSS is mainly used to sets the initial position for the background image ie., it is used to set an image at a certain position. The position that is relative to the positioning layer, can be set by using the background-origin property.
+
+9.  Which property controls the image scroll in the background?
+ANSWER. The background-attachment property in CSS is used to specify the kind of attachment of the background image with respect to its container. It can be set to scroll or make it remain fixed. It can be applied to all HTML elements.
+
+10.  Why should background and color be used as separate properties?  
+ANSWER. There are two reasons behind this: It enhances the legibility of style sheets. The background property is a complex property in CSS, and if it is combined with color, the complexity will further increase.
+
+11. How to center block elements using CSS1?  
+ANSWER. To centrally align the block elements, we can simply make use of the <center> tag. All the elements within the <center> tag will be centrally aligned.
+
+12. How to maintain the CSS specifications?  
+ANSWER. The CSS specifications are maintained by the World Wide Web Consortium (W3C).
+
+13.   What are the ways to integrate CSS as a web page?
+ANSWER.  CSS may be added to HTML in three different ways. To style a single HTML element on the page, use Inline CSS in a style attribute. By adding CSS to the head section of our HTML document, we can embed an internal stylesheet. We can also connect to an external stylesheet that separates our CSS from our HTML.
+
+14.  What is embedded style sheets?
+ANSWER.  Embedded Stylesheet: It allows you to define styles for a particular HTML document as a whole in one place. This is done by embedding the <style></style> tags containing the CSS properties in the head of your document.
+
+15.  What are the external style sheets?
+ANSWER.  An external style sheet is a file with a . css extension that contains cascading style sheet (CSS) definitions for a webpage(s). It completely separates the CSS styles from the HTML document making it easy to reuse and maintain.
+
+16.  What are the advantages and disadvantages of using external style sheets?  
+ANSWER.  External style sheets have the following advantages over internal and inline styles:
+           •  one change to the style sheet will change all linked pages.
+           •  you can create classes of styles that can then be used on many different HTML elements.
+           •  consistent look and feel across multiple web pages.
+
+17.   What is the meaning of the CSS selector?  
+ANSWER.  CSS selectors are used to "find" (or select) the HTML elements you want to style. We can divide CSS selectors into five categories: Simple selectors (select elements based on name, id, class) Combinator selectors (select elements based on a specific relationship between them).
+
+18.   What are the media types allowed by CSS?
+ANSWER.   Value	          Description
+          • all	     -     Used for all media type devices
+          • print    -     Used for printers
+          • screen   -	  Used for computer screens, tablets, smart-phones etc.
+          • speech   -	  Used for screenreaders that "reads" the page out loud.
+
+ 19.   What is the rule set?
+ ANSWER.  The set rule and variables are separated by a vertical slash “|' or colon (:). This method is widely used for describing infinite sets. For example, {y : y > 0} is read as: “the set of all y's, such that y is greater than 0”.
+
+20.   Creat Layouts ?
+ANSWER.  Already ready.
+        My github account- (surendrapatel18).
